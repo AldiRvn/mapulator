@@ -1,6 +1,6 @@
 # mapulator / Map Manipulator
 [![Go Report Card](https://goreportcard.com/badge/github.com/AldiRvn/mapulator)](https://goreportcard.com/report/github.com/AldiRvn/mapulator)  
-Used for set value of a field in nested key map, this repo was inspired by [sjson](github.com/tidwall/sjson) and [jsonparser](github.com/buger/jsonparser)
+Used for set value of a field in nested key map, this repo was inspired by [sjson](https://github.com/tidwall/sjson) and [jsonparser](https://github.com/buger/jsonparser)
 
 ## Installation
 ```
