@@ -2,7 +2,9 @@
 Used for set value of a field in nested key map, this repo was inspired by [sjson](github.com/tidwall/sjson) and [jsonparser](github.com/buger/jsonparser)
 
 ## Installation
-```go get github.com/AldiRvn/mapulator```
+```
+go get github.com/AldiRvn/mapulator
+```
 
 ## Usage:
 ```golang
