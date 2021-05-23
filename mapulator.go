@@ -35,3 +35,8 @@ func Set(target map[string]interface{}, path string, value interface{}) map[stri
 
 	return target
 }
+
+// Godoc SetNew
+func SetNew(path string, value interface{}) map[string]interface{} {
+	return Set(map[string]interface{}{}, path, value)
+}
